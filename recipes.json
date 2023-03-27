@@ -1,0 +1,50 @@
+[
+    {
+        "input":"Dreamcraft:item.ArcaneSlate/0",
+        "name": "Blank Slate",
+        "lifepoint": 1000,
+        "tier": 1
+    },
+    {
+        "input": "AWWayofTime:blankSlate/0",
+        "name": "Reinforced Slate",
+        "lifepoint": 2500,
+        "tier": 2
+    },
+    {
+        "input":"AWWayofTime:reinforcedSlate/0",
+        "name": "Imbued Slate",
+        "lifepoint": 7500,
+        "tier": 3
+    },
+    {
+        "input":"AWWayofTime:imbuedSlate/0",
+        "name": "Demonic Slate",
+        "lifepoint": 20000,
+        "tier": 4
+    },
+    {
+        "input":"AWWayofTime:demonicSlate/0",
+        "name": "Ethereal Slate",
+        "lifepoint": 60000,
+        "tier": 5
+    },
+    {
+        "input":"BloodArsenal:blood_infused_diamond_active/0",
+        "name": "Bound Diamond",
+        "lifepoint": 10000,
+        "tier": 5
+    },
+    {
+        "input":"BloodArsenal:blood_infused_diamond_unactive/0",
+        "name": "Blood Infused Diamond (Active)",
+        "lifepoint": 120000,
+        "tier": 4
+    },
+    {
+        "input":"minecraft:iron_block/0",
+        "name": "Blood Infused Iron Block",
+        "lifepoint": 64000,
+        "tier": 4
+    }
+]
